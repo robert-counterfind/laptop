@@ -38,10 +38,10 @@ and once it appears, press `return` to launch it.
 In your Terminal window, copy and paste the command below, then press `return`.
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/roberttaraya/laptop/master/laptop)
+bash <(curl -s https://raw.githubusercontent.com/robert-counterfind/laptop/master/laptop)
 ```
 
-The [script](https://github.com/roberttaraya/laptop/blob/master/mac) itself is
+The [script](https://github.com/robert-counterfind/laptop/blob/master/mac) itself is
 available in this repo for you to review if you want to see what it does
 and how it works.
 
